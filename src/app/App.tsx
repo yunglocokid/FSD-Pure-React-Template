@@ -1,5 +1,11 @@
+import { HomePage } from "@pages/HomePage"
+
 function App() {
-	return <>Hello</>
+	return (
+		<>
+			<HomePage />
+		</>
+	)
 }
 
 export default App
